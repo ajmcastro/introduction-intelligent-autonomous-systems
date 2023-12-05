@@ -2,6 +2,8 @@ import gymnasium as gym
 from stable_baselines3 import PPO
 import os
 
+# run tensorboard with:
+# tensorboard --logdir=logs
 
 models_dir = "models/PPO"
 logdir = "logs"

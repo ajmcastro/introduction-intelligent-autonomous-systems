@@ -2,6 +2,8 @@ import gymnasium as gym
 from stable_baselines3 import A2C
 import os
 
+# run tensorboard with:
+# tensorboard --logdir=logs
 
 models_dir = "models/A2C"
 logdir = "logs"
