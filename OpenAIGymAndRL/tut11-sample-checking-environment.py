@@ -1,5 +1,5 @@
 from stable_baselines3.common.env_checker import check_env
-from tut10-sample-snake-env-converted-gym-env import SnekEnv
+from snakeenv import SnekEnv
 
 
 env = SnekEnv()

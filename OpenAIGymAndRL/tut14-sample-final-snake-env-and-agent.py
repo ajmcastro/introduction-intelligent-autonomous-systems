@@ -1,6 +1,6 @@
 # our environement here is adapted from: https://github.com/TheAILearner/Snake-Game-using-OpenCV-Python/blob/master/snake_game_using_opencv.ipynb
 import gymnasium as gym
-from gym import spaces
+from gymnasium import spaces
 import numpy as np
 import cv2
 import random

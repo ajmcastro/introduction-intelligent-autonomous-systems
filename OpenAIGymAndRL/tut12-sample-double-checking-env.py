@@ -1,4 +1,4 @@
-from tut10-sample-snake-env-converted-gym-env import SnekEnv
+from snakeenv import SnekEnv
 
 
 env = SnekEnv()
